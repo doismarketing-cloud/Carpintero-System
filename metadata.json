@@ -1,0 +1,6 @@
+{
+  "name": "System Carpintero",
+  "description": "Sistema comercial avanzado para carpinterías: presupuestos a medida con múltiples métodos de cálculo, gestión de clientes, panel de control y firma digital de contratos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
